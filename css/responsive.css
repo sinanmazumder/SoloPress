@@ -1,0 +1,46 @@
+@media (max-width: 1199.98px) {
+    
+   
+}
+
+
+@media (max-width: 997px) {
+    
+    .widget .text h2{
+        font-size: 23px;
+    }
+    .news .box a{
+        font-size: 16px;
+    }
+    .navbar .btn{
+        display: none;
+    }
+    
+}
+
+@media (max-width: 991.98px) {
+   
+}
+
+@media (max-width: 767.98px) {
+   
+    .services .content .box{
+        bottom: -21rem;
+    }
+    .widget .button{
+        text-align: center;
+    }
+    .news .box img{
+        width: 100%;
+    }
+    
+}
+
+@media (max-width: 575.98px) {
+    
+    
+}
+
+@media (max-width: 395px) {
+   
+}
